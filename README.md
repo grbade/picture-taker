@@ -5,7 +5,7 @@ the picture in the archive folder which is in the same folder as the script.
 #Usage
 The script is executable and can be used directly
 
-#Example
+##Example
 ```
 $ ./take_picture.py
 ```
