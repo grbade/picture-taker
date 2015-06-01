@@ -1,5 +1,5 @@
 #!/usr/bin/python
-"""take_picture.py
+"""Picture Taker
 
 This module takes a picture with the camera attached to a rasperry pi and saves
 the picture in the archive folder which is in the same folder as the script.
